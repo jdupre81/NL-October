@@ -1,3 +1,2 @@
 - Newsletter design [Newsletter October with countdown timer](https://jdupre81.github.io/NL-October/)
 - Countdown timer W3 schools.com https://www.w3schools.com/howto/howto_js_countdown.asp
-- <a href="https://www.example.com/my great page" target="_blank">link</a>
