@@ -1,2 +1,2 @@
-- Migration email design [Email October with countdown timer]([https://jdupre81.github.io/NL-October/](https://jdupre81.github.io/migration_email/)
+- Migration email design [Email October with countdown timer]([Direct email to Renku users](https://jdupre81.github.io/migration_email/)
 - Countdown timer W3 schools.com https://www.w3schools.com/howto/howto_js_countdown.asp
