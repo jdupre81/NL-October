@@ -1,2 +1,2 @@
-- Newsletter design [Newsletter October with countdown timer](https://jdupre81.github.io/NL-October/)
+- Migration email design [Email October with countdown timer](https://jdupre81.github.io/NL-October/)
 - Countdown timer W3 schools.com https://www.w3schools.com/howto/howto_js_countdown.asp
